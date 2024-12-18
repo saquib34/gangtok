@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352960769190",
+    "project_id": "swasthyanew",
+    "storage_bucket": "swasthyanew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352960769190:android:253c7f13852cc870679867",
+        "android_client_info": {
+          "package_name": "com.mycompany.swasthyanew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsWivUCgD-xaOZOeXHSyB-rWpJ7OgB-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
